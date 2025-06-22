@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cfmu0mjuecqti"
+path="res://.godot/imported/battle 7.ogg-eec82633061baf49ac527dfc4782e8ca.oggvorbisstr"
+
+[deps]
+
+source_file="res://game sounds/battle 7.ogg"
+dest_files=["res://.godot/imported/battle 7.ogg-eec82633061baf49ac527dfc4782e8ca.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

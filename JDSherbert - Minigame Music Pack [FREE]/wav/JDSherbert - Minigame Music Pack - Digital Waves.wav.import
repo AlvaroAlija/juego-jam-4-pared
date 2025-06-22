@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://de5nhgwj3wf15"
+path="res://.godot/imported/JDSherbert - Minigame Music Pack - Digital Waves.wav-7f18d72d9d8bf4a2162375d0eb5c8412.sample"
+
+[deps]
+
+source_file="res://JDSherbert - Minigame Music Pack [FREE]/wav/JDSherbert - Minigame Music Pack - Digital Waves.wav"
+dest_files=["res://.godot/imported/JDSherbert - Minigame Music Pack - Digital Waves.wav-7f18d72d9d8bf4a2162375d0eb5c8412.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

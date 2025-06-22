@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vl5pbcdy86dn"
+path="res://.godot/imported/JDSherbert - Minigame Music Pack - Streetlights.mp3-6a978c6a52495015acab6527ce168291.mp3str"
+
+[deps]
+
+source_file="res://JDSherbert - Minigame Music Pack [FREE]/mp3/JDSherbert - Minigame Music Pack - Streetlights.mp3"
+dest_files=["res://.godot/imported/JDSherbert - Minigame Music Pack - Streetlights.mp3-6a978c6a52495015acab6527ce168291.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

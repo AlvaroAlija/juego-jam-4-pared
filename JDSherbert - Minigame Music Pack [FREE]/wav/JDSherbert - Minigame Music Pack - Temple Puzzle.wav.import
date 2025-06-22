@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c5c62qdvqcbyb"
+path="res://.godot/imported/JDSherbert - Minigame Music Pack - Temple Puzzle.wav-66fa6189e75760fd8b2458a4e1811054.sample"
+
+[deps]
+
+source_file="res://JDSherbert - Minigame Music Pack [FREE]/wav/JDSherbert - Minigame Music Pack - Temple Puzzle.wav"
+dest_files=["res://.godot/imported/JDSherbert - Minigame Music Pack - Temple Puzzle.wav-66fa6189e75760fd8b2458a4e1811054.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

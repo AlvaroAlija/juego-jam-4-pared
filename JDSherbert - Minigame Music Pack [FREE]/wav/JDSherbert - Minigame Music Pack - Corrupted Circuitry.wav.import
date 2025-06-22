@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bv08gwxkqn3m2"
+path="res://.godot/imported/JDSherbert - Minigame Music Pack - Corrupted Circuitry.wav-fc3668e13aeb2180c67b726caf25432b.sample"
+
+[deps]
+
+source_file="res://JDSherbert - Minigame Music Pack [FREE]/wav/JDSherbert - Minigame Music Pack - Corrupted Circuitry.wav"
+dest_files=["res://.godot/imported/JDSherbert - Minigame Music Pack - Corrupted Circuitry.wav-fc3668e13aeb2180c67b726caf25432b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

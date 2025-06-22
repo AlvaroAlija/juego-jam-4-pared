@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://x7ammuw1ko0x"]
+
+[ext_resource type="Texture2D" uid="uid://b3upa834g5et2" path="res://kenney_simplified-platformer-pack/PNG/Tiles/platformPack_tile021.png" id="1_v2ry4"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_74p4w"]
+size = Vector2(36, 4)
+
+[node name="checkpointfinal" type="StaticBody2D" groups=["checkpointfinal"]]
+
+[node name="PlatformPackTile021" type="Sprite2D" parent="."]
+texture = ExtResource("1_v2ry4")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -20)
+shape = SubResource("RectangleShape2D_74p4w")
